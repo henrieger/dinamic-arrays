@@ -1,6 +1,6 @@
 # include <stdio.h>
 
-# include "dinamic.h"
+# include "dynamic.h"
 
 int main() {
     createArrayType(int);

@@ -1,5 +1,5 @@
-# ifndef __DINAMIC_H__
-# define __DINAMIC_H__
+# ifndef __DYNAMIC_H__
+# define __DYNAMIC_H__
 
 # include <stdlib.h>
 # include <string.h>

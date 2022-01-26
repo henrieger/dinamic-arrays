@@ -6,8 +6,8 @@ objects = *.o
 
 all: test
 
-test: test.c # dinamic.o
-# dinamic.o: dinamic.c dinamic.h
+test: test.c # dynamic.o
+# dynamic.o: dynamic.c dynamic.h
 
 debug: CFLAGS += -g -DDEBUG
 debug: all
